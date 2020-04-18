@@ -6,5 +6,5 @@ A personal profile web page which contains the following details:
 2.	A summary about myself (includimg my hobbies and interests).
 3.	A contact form at the bottom of your page.
 
-View the web page online via this link:
+To view the web page online follow this link:
 https://jerryasuquo.github.io/my-profile-page/
